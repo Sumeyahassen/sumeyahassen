@@ -1,3 +1,15 @@
+<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/55cd7aea-b16d-462b-bf03-460fe1ba6c9e" />
+
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 <br><br>🎓 Background: Software Engineering  <br>🔭 Focused On:  <br>  - Front-End Development (React)  <br>  - Full-Stack Development (Node.js, Express.js, MongoDB)  <br>  - Mobile Apps (Flutter, React Native)  <br>  - Electronics  <br>🌱 Currently Exploring:  <br>  - Artificial Intelligence (AI)  <br>  - Machine Learning (ML)  <br>  - DevOps & Containerization  <br>
 
