@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-<br><br>🎓 Background: Software Engineering  <br>🔭 Focused On:  <br>  - Front-End Development (React)  <br>  - Full-Stack Development (Node.js, Express.js, MongoDB,PostgreSQL and React.js) ,  <br>  - Mobile Apps (Flutter, React Native)  <br>  - Electronics  <br>🌱 Currently Exploring:  <br>  - Artificial Intelligence (AI)  <br>  - Machine Learning (ML)  <br>  - DevOps & Containerization  <br>
+<br><br>🎓 Background: Software Engineering  <br>🔭 Focused On:  <br>  - Front-End Development (React)  <br>  - Full-Stack Development (Node.js, Express.js, MongoDB,PostgreSQL and React.js) ,  <br>  - Mobile Apps (Flutter, React Native)  <br>  - Electronics  <br>🌱 Currently Exploring:  <br>  - Artificial Intelligence (AI)  <br>  - Data Analaysis  <br>  - DevOps & Containerization  <br>
 
 
 ## 🌐 Socials:
